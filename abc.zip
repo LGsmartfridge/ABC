@@ -1,0 +1,5 @@
+[id: "print"]
+[opt: 'text']
+[opt: 'number']
+[opt: 'url']
+[opt: 'file']
