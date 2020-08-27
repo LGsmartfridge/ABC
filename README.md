@@ -1,1 +1,0 @@
-DO NOT STELL FROM OTHER PEOPLE. Have a good day!
